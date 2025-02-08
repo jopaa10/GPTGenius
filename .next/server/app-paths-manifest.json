@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/(dashboard)/profile/page": "app/(dashboard)/profile/page.js",
+  "/(dashboard)/tours/new-tour/page": "app/(dashboard)/tours/new-tour/page.js",
+  "/(dashboard)/tours/page": "app/(dashboard)/tours/page.js",
+  "/(dashboard)/chat/page": "app/(dashboard)/chat/page.js"
+}
